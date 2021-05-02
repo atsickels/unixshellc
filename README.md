@@ -33,3 +33,6 @@ There are many other combinations of commands, feel free to try things out and s
 # Last notes
 * The output sometimes will not pop up right away as a nature from the main loop, enter another line or command to see the ouput of things like job finished/terminated
 * Custom commands that require a process number will cause a segfault when running without a process number
+
+# Citation
+* The code is not completely mine, some was produced and given to me by my professor. The code with extensive comments is mine, the main parts not written by me were the parsing of the input and parts of the main loop, though most of the main function did end up being mine.
